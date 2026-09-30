@@ -1,4 +1,4 @@
-<img src="./assets/arasaka-tower.png" width="30%" align="right" alt="Arasaka Tower">
+<img src="./assets/arasaka-tower.png" width="50%" height="1080" align="right" alt="Arasaka Tower">
 
 <pre>
 ARASAKA SYSTEMS DIVISION
